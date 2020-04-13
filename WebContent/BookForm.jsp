@@ -26,10 +26,10 @@
             <caption>
                 <h2>
                     <c:if test="${book != null}">
-                        Edit Book
+                        Edytuj Dane
                     </c:if>
                     <c:if test="${book == null}">
-                        Add New Book
+                        Dodaj Nową Książkę
                     </c:if>
                 </h2>
             </caption>
